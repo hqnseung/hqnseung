@@ -1,3 +1,6 @@
+
+<div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ccce99,100:0061b8&height=200&section=header&text=hqnseung&fontSize=90" /></div>
+
 <div align="center">
 <h1 style="text-align:center"> Hi I'm @hqnseung 👋</h1>
 High school Novice developer
