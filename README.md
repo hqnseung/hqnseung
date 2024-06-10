@@ -1,5 +1,5 @@
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I'm%20Han%20Seungwoo&fontSize=70&color=0:0061b8,100:ccce99&stroke=0061b8)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I'm%20Han%20Seungwoo&fontSize=70&color=0:0061b8,100:ccce99&stroke=2c9dff)
 
 <div align="center">
 <h2>High school Beginner developer</h2>
