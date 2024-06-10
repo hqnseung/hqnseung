@@ -1,13 +1,13 @@
 
-<div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ccce99,100:0061b8&height=200&section=header&text=hqnseung&fontSize=90" /></div>
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I'm%20Han%20Seungwoo&fontSize=70&color=0:0061b8,100:ccce99&stroke=0061b8)
 
 <div align="center">
-<h1 style="text-align:center"> Hi I'm @hqnseung 👋</h1>
-High school Novice developer
+<hr>
+High school Beginner developer
 
 <br><br><br>
 
-![Hqnseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hqnseung&show_icons=true&theme=cobalt)
+![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=hqnseung&show_icons=true&theme=cobalt)
 
 <hr>
 
