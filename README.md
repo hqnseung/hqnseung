@@ -8,6 +8,78 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 124.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 291 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+🌆 Daytime                93 commits          ████████░░░░░░░░░░░░░░░░░   31.42 % 
+🌃 Evening                74 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌙 Night                  87 commits          ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Tuesday                  59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Wednesday                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Thursday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Saturday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Sunday                   54 commits          █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+EJS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/hqnseung/hqnseung/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/10/2024 05:38:21 UTC
 <!--END_SECTION:waka-->
 
 <br>
