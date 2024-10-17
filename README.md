@@ -8,17 +8,17 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-🌆 Daytime                94 commits          ████████░░░░░░░░░░░░░░░░░   31.65 % 
-🌃 Evening                74 commits          ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-🌙 Night                  87 commits          ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+🌞 Morning                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+🌆 Daytime                94 commits          ████████░░░░░░░░░░░░░░░░░   31.44 % 
+🌃 Evening                74 commits          ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+🌙 Night                  89 commits          ███████░░░░░░░░░░░░░░░░░░   29.77 % 
 ```
 
 
@@ -28,17 +28,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               51 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/10/2024 18:56:06 UTC
+ Last Updated on 17/10/2024 18:45:26 UTC
 <!--END_SECTION:waka-->
 
 <br>
