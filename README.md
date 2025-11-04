@@ -7,13 +7,17 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+<img src="https://github-readme-stats-navy-iota-50.vercel.app/api?username=hqnseung&show_icons=true&count_private=true&theme=github_dark_dimmed&show=reviews,prs_merged">
 
+---
 
 <!--START_SECTION:waka-->
 
  Last Updated on 03/11/2025 18:42:00 UTC
 <!--END_SECTION:waka-->
+
+<br>
+
 
 <br>
 
