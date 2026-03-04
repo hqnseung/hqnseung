@@ -17,10 +17,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                118 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-🌆 Daytime                609 commits         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-🌃 Evening                819 commits         █████████░░░░░░░░░░░░░░░░   36.56 % 
-🌙 Night                  694 commits         ████████░░░░░░░░░░░░░░░░░   30.98 % 
+🌞 Morning                133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+🌆 Daytime                709 commits         ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+🌃 Evening                945 commits         █████████░░░░░░░░░░░░░░░░   36.61 % 
+🌙 Night                  794 commits         ████████░░░░░░░░░░░░░░░░░   30.76 % 
 ```
 
 
@@ -30,22 +30,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 47 mins       ████████████████████████░   94.49 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               1 hr 14 mins        █████████████████████░░░░   85.43 % 
+JavaScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+SQL                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Antigravity              3 hrs 47 mins       ████████████████████████░   94.74 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Antigravity              1 hr 14 mins        █████████████████████░░░░   85.43 % 
+VS Code                  12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 
 💻 Operating System: 
-Windows                  4 hrs               █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/03/2026 18:50:58 UTC
+ Last Updated on 04/03/2026 18:50:37 UTC
 <!--END_SECTION:waka-->
 
 <br>
