@@ -14,38 +14,8 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs%2012%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-🌆 Daytime                709 commits         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌃 Evening                946 commits         █████████░░░░░░░░░░░░░░░░   36.53 % 
-🌙 Night                  802 commits         ████████░░░░░░░░░░░░░░░░░   30.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               5 hrs 32 mins       ███████████████████████░░   92.14 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-Antigravity              5 hrs 48 mins       ████████████████████████░   96.49 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-
-💻 Operating System: 
-Windows                  6 hrs               █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 06/03/2026 18:50:16 UTC
+ Last Updated on 07/03/2026 18:48:17 UTC
 <!--END_SECTION:waka-->
 
 <br>
