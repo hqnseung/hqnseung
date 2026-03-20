@@ -12,15 +12,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2038%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-🌆 Daytime                714 commits         ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-🌃 Evening                947 commits         █████████░░░░░░░░░░░░░░░░   36.49 % 
-🌙 Night                  801 commits         ████████░░░░░░░░░░░░░░░░░   30.87 % 
+🌞 Morning                133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+🌆 Daytime                714 commits         ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+🌃 Evening                950 commits         █████████░░░░░░░░░░░░░░░░   36.57 % 
+🌙 Night                  801 commits         ████████░░░░░░░░░░░░░░░░░   30.83 % 
 ```
 
 
@@ -30,21 +30,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   1 hr 43 mins        ███████████████████░░░░░░   74.86 % 
-TypeScript               25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   1 hr 43 mins        ████████████░░░░░░░░░░░░░   47.75 % 
+TypeScript               1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.70 % 
+MDX                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-VS Code                  1 hr 52 mins        ████████████████████░░░░░   81.45 % 
-Antigravity              25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+VS Code                  1 hr 52 mins        █████████████░░░░░░░░░░░░   51.95 % 
+Antigravity              1 hr 44 mins        ████████████░░░░░░░░░░░░░   48.05 % 
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/03/2026 18:51:42 UTC
+ Last Updated on 20/03/2026 18:50:14 UTC
 <!--END_SECTION:waka-->
 
 <br>
