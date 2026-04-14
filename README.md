@@ -30,24 +30,24 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               8 hrs 43 mins       █████████████░░░░░░░░░░░░   53.91 % 
-Python                   1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Java                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+TypeScript               8 hrs 24 mins       ██████████████░░░░░░░░░░░   55.49 % 
+Python                   1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Java                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🔥 Editors: 
-Antigravity              11 hrs 51 mins      ██████████████████░░░░░░░   73.20 % 
-VS Code                  2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Android Studio           1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Unknown Editor           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Antigravity              10 hrs 48 mins      ██████████████████░░░░░░░   71.35 % 
+VS Code                  2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Android Studio           1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Unknown Editor           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 💻 Operating System: 
-Windows                  16 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/04/2026 18:55:29 UTC
+ Last Updated on 14/04/2026 18:53:56 UTC
 <!--END_SECTION:waka-->
 
 <br>
