@@ -18,9 +18,9 @@
 
 ```text
 🌞 Morning                134 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-🌆 Daytime                764 commits         ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-🌃 Evening                1040 commits        █████████░░░░░░░░░░░░░░░░   36.66 % 
-🌙 Night                  899 commits         ████████░░░░░░░░░░░░░░░░░   31.69 % 
+🌆 Daytime                768 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+🌃 Evening                1040 commits        █████████░░░░░░░░░░░░░░░░   36.61 % 
+🌙 Night                  899 commits         ████████░░░░░░░░░░░░░░░░░   31.64 % 
 ```
 
 
@@ -30,24 +30,24 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               14 hrs 3 mins       █████████████░░░░░░░░░░░░   50.16 % 
-Other                    5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Markdown                 3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-JSON                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+TypeScript               12 hrs 38 mins      ███████████░░░░░░░░░░░░░░   45.37 % 
+Other                    5 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Markdown                 4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-Antigravity              16 hrs 4 mins       ██████████████░░░░░░░░░░░   57.34 % 
-Unknown Editor           11 hrs 48 mins      ███████████░░░░░░░░░░░░░░   42.14 % 
-Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Antigravity              14 hrs 27 mins      █████████████░░░░░░░░░░░░   51.88 % 
+Unknown Editor           12 hrs 54 mins      ████████████░░░░░░░░░░░░░   46.36 % 
+VS Code                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Windows                  28 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  27 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/04/2026 19:00:36 UTC
+ Last Updated on 30/04/2026 18:58:33 UTC
 <!--END_SECTION:waka-->
 
 <br>
