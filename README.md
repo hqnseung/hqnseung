@@ -12,15 +12,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                134 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-🌆 Daytime                768 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌃 Evening                1040 commits        █████████░░░░░░░░░░░░░░░░   36.61 % 
-🌙 Night                  899 commits         ████████░░░░░░░░░░░░░░░░░   31.64 % 
+🌞 Morning                134 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+🌆 Daytime                768 commits         ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+🌃 Evening                1040 commits        █████████░░░░░░░░░░░░░░░░   36.59 % 
+🌙 Night                  900 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
 ```
 
 
@@ -30,24 +30,24 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               12 hrs 38 mins      ███████████░░░░░░░░░░░░░░   45.37 % 
-Other                    5 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Markdown                 4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+TypeScript               9 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.08 % 
+Other                    4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Markdown                 2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+JavaScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-Antigravity              14 hrs 27 mins      █████████████░░░░░░░░░░░░   51.88 % 
-Unknown Editor           12 hrs 54 mins      ████████████░░░░░░░░░░░░░   46.36 % 
-VS Code                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Unknown Editor           10 hrs 55 mins      ████████████░░░░░░░░░░░░░   49.97 % 
+Antigravity              10 hrs 26 mins      ████████████░░░░░░░░░░░░░   47.79 % 
+VS Code                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Windows                  27 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/04/2026 18:58:33 UTC
+ Last Updated on 01/05/2026 18:52:46 UTC
 <!--END_SECTION:waka-->
 
 <br>
