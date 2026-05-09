@@ -12,15 +12,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2058%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                134 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-🌆 Daytime                785 commits         ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-🌃 Evening                1063 commits        █████████░░░░░░░░░░░░░░░░   36.63 % 
-🌙 Night                  920 commits         ████████░░░░░░░░░░░░░░░░░   31.70 % 
+🌞 Morning                134 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+🌆 Daytime                801 commits         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+🌃 Evening                1063 commits        █████████░░░░░░░░░░░░░░░░   36.42 % 
+🌙 Night                  921 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
 ```
 
 
@@ -30,23 +30,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.65 % 
-TypeScript               2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.06 % 
-Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+JavaScript               2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.41 % 
+TypeScript               2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.02 % 
+Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 39 mins       ███████████████░░░░░░░░░░   58.14 % 
-Unknown Editor           2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-VS Code                  1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Antigravity              5 hrs 3 mins        █████████████████░░░░░░░░   69.28 % 
+Unknown Editor           1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+VS Code                  1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 
 💻 Operating System: 
-Windows                  8 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  7 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/05/2026 18:58:39 UTC
+ Last Updated on 09/05/2026 18:51:31 UTC
 <!--END_SECTION:waka-->
 
 <br>
