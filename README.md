@@ -12,7 +12,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-847%20hrs%2020%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -30,23 +30,24 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               4 hrs 10 mins       █████████████░░░░░░░░░░░░   51.83 % 
-JavaScript               1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-Other                    1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TypeScript               3 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.59 % 
+JavaScript               1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Other                    1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Markdown                 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 28 mins       ██████████████░░░░░░░░░░░   55.52 % 
-Unknown Editor           1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-VS Code                  1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Antigravity              4 hrs 55 mins       ██████████████░░░░░░░░░░░   57.62 % 
+Unknown Editor           1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+VS Code                  1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  8 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/05/2026 19:17:01 UTC
+ Last Updated on 20/05/2026 19:22:20 UTC
 <!--END_SECTION:waka-->
 
 <br>
