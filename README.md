@@ -12,7 +12,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2030%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -30,23 +30,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               4 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.34 % 
-Other                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-JSON                     1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-TypeScript               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+JavaScript               4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.72 % 
+JSON                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Markdown                 1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Other                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+TypeScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 31 mins       █████████████████░░░░░░░░   67.12 % 
-Antigravity              3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-Claude Code              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+VS Code                  10 hrs 2 mins       █████████████████████░░░░   82.24 % 
+Antigravity              1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Claude Code              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 💻 Operating System: 
-Windows                  11 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/05/2026 18:52:13 UTC
+ Last Updated on 24/05/2026 18:54:43 UTC
 <!--END_SECTION:waka-->
 
 <br>
