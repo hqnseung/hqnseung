@@ -30,23 +30,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.72 % 
-JSON                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Markdown                 1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Other                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-TypeScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+JavaScript               6 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.33 % 
+Other                    1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+JSON                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+TypeScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 2 mins       █████████████████████░░░░   82.24 % 
-Antigravity              1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Claude Code              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+VS Code                  11 hrs 58 mins      ███████████████████████░░   90.91 % 
+Antigravity              49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Claude Code              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 💻 Operating System: 
-Windows                  12 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/05/2026 19:05:33 UTC
+ Last Updated on 26/05/2026 19:21:05 UTC
 <!--END_SECTION:waka-->
 
 <br>
