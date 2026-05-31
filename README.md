@@ -12,15 +12,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-865%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2031%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-🌆 Daytime                870 commits         ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-🌃 Evening                1096 commits        █████████░░░░░░░░░░░░░░░░   35.31 % 
-🌙 Night                  1003 commits        ████████░░░░░░░░░░░░░░░░░   32.31 % 
+🌞 Morning                136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+🌆 Daytime                870 commits         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+🌃 Evening                1096 commits        █████████░░░░░░░░░░░░░░░░   35.30 % 
+🌙 Night                  1003 commits        ████████░░░░░░░░░░░░░░░░░   32.30 % 
 ```
 
 
@@ -30,23 +30,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.27 % 
-JavaScript               2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-Markdown                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+TypeScript               4 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.85 % 
+JavaScript               2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 42 mins       ████████████████████████░   96.18 % 
-Claude Code              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Unknown Editor           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+VS Code                  9 hrs 26 mins       ██████████████████████░░░   87.59 % 
+Claude Code              1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  10 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 18:53:36 UTC
+ Last Updated on 31/05/2026 18:56:14 UTC
 <!--END_SECTION:waka-->
 
 <br>
