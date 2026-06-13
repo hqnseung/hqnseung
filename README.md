@@ -12,15 +12,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-887%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2052%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-🌆 Daytime                932 commits         ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-🌃 Evening                1132 commits        █████████░░░░░░░░░░░░░░░░   34.55 % 
-🌙 Night                  1076 commits        ████████░░░░░░░░░░░░░░░░░   32.84 % 
+🌆 Daytime                933 commits         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+🌃 Evening                1132 commits        █████████░░░░░░░░░░░░░░░░   34.54 % 
+🌙 Night                  1076 commits        ████████░░░░░░░░░░░░░░░░░   32.83 % 
 ```
 
 
@@ -30,22 +30,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               7 hrs 15 mins       ███████████████░░░░░░░░░░   58.85 % 
-Markdown                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-JavaScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+TypeScript               5 hrs 52 mins       ███████████████░░░░░░░░░░   59.67 % 
+Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+JavaScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+CSS                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 4 mins       ████████████████████░░░░░   81.70 % 
-Claude Code              2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+VS Code                  8 hrs 41 mins       ██████████████████████░░░   88.36 % 
+Claude Code              1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 
 💻 Operating System: 
-Windows                  12 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/06/2026 19:18:46 UTC
+ Last Updated on 13/06/2026 18:58:20 UTC
 <!--END_SECTION:waka-->
 
 <br>
