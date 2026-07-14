@@ -30,22 +30,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               4 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-TypeScript               4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-Markdown                 2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Bash                     2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Git Config               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+JavaScript               4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.66 % 
+Markdown                 3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+TypeScript               2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Bash                     2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Git Config               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 9 mins       ██████████████████████░░░   87.89 % 
-Claude Code              2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+VS Code                  13 hrs 10 mins      ██████████████████████░░░   86.11 % 
+Claude Code              2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 
 💻 Operating System: 
-Windows                  17 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 20:02:10 UTC
+ Last Updated on 14/07/2026 19:53:52 UTC
 <!--END_SECTION:waka-->
 
 <br>
