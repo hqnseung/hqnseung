@@ -13,17 +13,17 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C001%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C001%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-232%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-232%20hrs%2057%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                195 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-🌆 Daytime                1497 commits        ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-🌃 Evening                1633 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
-🌙 Night                  1795 commits        █████████░░░░░░░░░░░░░░░░   35.06 % 
+🌞 Morning                195 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+🌆 Daytime                1499 commits        ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+🌃 Evening                1633 commits        ████████░░░░░░░░░░░░░░░░░   31.65 % 
+🌙 Night                  1833 commits        █████████░░░░░░░░░░░░░░░░   35.52 % 
 ```
 
 
@@ -33,47 +33,47 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               20 hrs 47 mins      ████████████████░░░░░░░░░   64.28 % 
-Markdown                 6 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Other                    1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-SQL                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               20 hrs 28 mins      ████████████████░░░░░░░░░   65.38 % 
+Markdown                 5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Other                    1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+SQL                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 50 mins      ████████████████░░░░░░░░░   64.48 % 
-Claude Code              11 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   35.52 % 
+VS Code                  19 hrs 29 mins      ████████████████░░░░░░░░░   62.27 % 
+Claude Code              11 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   37.73 % 
 
 💻 Operating System: 
-Windows                  32 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 43 mins (91.9%)
+⏱ AI Coding Time: 28 hrs 34 mins (91.29%)
 
-✍️ 15,016 lines written by AI, 40 lines written by hand (99.73% AI-written)
+✍️ 14,638 lines written by AI, 43 lines written by hand (99.71% AI-written)
 
-🔤 896,648,404 Input Tokens, 2,004,027 Output Tokens
+🔤 882,095,193 Input Tokens, 1,911,172 Output Tokens
 
-💵 $3618.35 Estimated AI Cost This Week
+💵 $3577.41 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 272 AI Prompts
+🧠 24 AI Sessions, 268 AI Prompts
 
-Fable                    13,558 lines        ██████████████████░░░░░░░   70.61 % 
-Opus                     3,802 lines         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Sonnet                   1,841 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Fable                    13,134 lines        █████████████████░░░░░░░░   69.81 % 
+Opus                     3,840 lines         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Sonnet                   1,841 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📄 Detailed Prompter — average 824 characters per prompt
+🤖 AI-Driven — 99.71% of written lines came from AI
+📄 Detailed Prompter — average 516 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.41% of changed lines were hand-edited
+🚀 High AI Trust — 0.54% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 20:06:20 UTC
+ Last Updated on 01/08/2026 19:47:21 UTC
 <!--END_SECTION:waka-->
 
 <br>
