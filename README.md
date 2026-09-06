@@ -13,17 +13,17 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C078%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-313%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2044%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                239 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-🌆 Daytime                2460 commits        ████████░░░░░░░░░░░░░░░░░   32.05 % 
-🌃 Evening                2310 commits        ████████░░░░░░░░░░░░░░░░░   30.09 % 
-🌙 Night                  2667 commits        █████████░░░░░░░░░░░░░░░░   34.74 % 
+🌞 Morning                241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+🌆 Daytime                2593 commits        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+🌃 Evening                2394 commits        ████████░░░░░░░░░░░░░░░░░   30.01 % 
+🌙 Night                  2750 commits        █████████░░░░░░░░░░░░░░░░   34.47 % 
 ```
 
 
@@ -33,47 +33,47 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               6 hrs 13 mins       ████████████░░░░░░░░░░░░░   49.53 % 
-Markdown                 4 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.93 % 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+TypeScript               5 hrs 33 mins       ██████████████░░░░░░░░░░░   54.43 % 
+Markdown                 3 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   37.91 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 7 mins       ██████████████████████░░░   88.56 % 
-VS Code                  1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              9 hrs 14 mins       ███████████████████████░░   90.51 % 
+VS Code                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  12 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 58 mins (95.36%)
+⏱ AI Coding Time: 10 hrs 12 mins (100.0%)
 
-✍️ 15,804 lines written by AI, 9 lines written by hand (99.94% AI-written)
+✍️ 9,623 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,448,383 Input Tokens, 834,245 Output Tokens
+🔤 6,858,450 Input Tokens, 661,052 Output Tokens
 
-💵 $268.57 Estimated AI Cost This Week
+💵 $166.15 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 89 AI Prompts
+🧠 6 AI Sessions, 85 AI Prompts
 
-Fable                    15,189 lines        ██████████████████████░░░   88.05 % 
-Opus                     2,061 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Fable                    9,230 lines         █████████████████████░░░░   84.62 % 
+Opus                     1,677 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 597 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 554 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/09/2026 20:41:06 UTC
+ Last Updated on 06/09/2026 20:45:39 UTC
 <!--END_SECTION:waka-->
 
 <br>
