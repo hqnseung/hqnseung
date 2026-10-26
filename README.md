@@ -21,9 +21,9 @@
 
 ```text
 🌞 Morning                409 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-🌆 Daytime                3655 commits        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-🌃 Evening                4047 commits        ████████░░░░░░░░░░░░░░░░░   32.75 % 
-🌙 Night                  4248 commits        █████████░░░░░░░░░░░░░░░░   34.37 % 
+🌆 Daytime                3655 commits        ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+🌃 Evening                4051 commits        ████████░░░░░░░░░░░░░░░░░   32.77 % 
+🌙 Night                  4248 commits        █████████░░░░░░░░░░░░░░░░   34.36 % 
 ```
 
 
@@ -33,10 +33,10 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    23 mins             █████████░░░░░░░░░░░░░░░░   34.07 % 
-JavaScript               22 mins             ████████░░░░░░░░░░░░░░░░░   32.65 % 
-Text                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Other                    22 mins             ████████░░░░░░░░░░░░░░░░░   33.93 % 
+JavaScript               22 mins             ████████░░░░░░░░░░░░░░░░░   32.72 % 
+Text                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
@@ -54,23 +54,23 @@ Windows                  1 hr 7 mins         ███████████�
 
 ✍️ 299 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,354,503 Input Tokens, 181,004 Output Tokens
+🔤 1,892,187 Input Tokens, 179,891 Output Tokens
 
-💵 $16.61 Estimated AI Cost This Week
+💵 $14.46 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 26 AI Prompts
+🧠 5 AI Sessions, 26 AI Prompts
 
 Opus                     365 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 85 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 21:12:36 UTC
+ Last Updated on 26/10/2026 22:54:40 UTC
 <!--END_SECTION:waka-->
 
 <br>
